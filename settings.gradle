@@ -1,0 +1,3 @@
+include ':xmvplibrary'
+include ':testapp2'
+rootProject.name = "XMvpLibApp"
